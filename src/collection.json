@@ -13,7 +13,7 @@
       "aliases": [
         "c"
       ],
-      "description": "A schematic for generating component, with optional rxjs Subscription management",
+      "description": "A schematic for generating component, with optional rxjs Axe Scan management",
       "factory": "./ag-component/index#agComponent",
       "schema": "./ag-component/schema.json"
     }
