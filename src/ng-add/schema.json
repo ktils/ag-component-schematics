@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/schema",
-  "$id": "AsgComponentSchematicsNgAdd",
+  "$id": "AgComponentSchematicsNgAdd",
   "title": "Custom library for extending Angular Schematics",
   "type": "object",
   "properties": {
@@ -8,7 +8,7 @@
       "type": "boolean",
       "default": true,
       "description": "Use asg-component-schematics as the default collection",
-      "x-prompt": "Do you want to use asg-component-schematics as the default collection?",
+      "x-prompt": "Do you want to use ag-component-schematics as the default collection?",
       "alias": "d"
     }
   },
