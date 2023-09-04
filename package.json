@@ -1,5 +1,5 @@
 {
-  "name": "ag-component",
+  "name": "ag-component-schematics",
   "version": "0.0.0",
   "description": "A schematic that contains custom component generate, with optional rxjs Subscription management",
   "scripts": {
